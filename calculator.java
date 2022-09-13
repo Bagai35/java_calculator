@@ -50,7 +50,7 @@ public class calculator {
                 }
                 default:
                 {
-                    System.out.println("ТЫ ЧИТАТЬ НЕ УМЕЕШЬ? НАДО ЧИСЛА ОТ 0 ДО 4 А НЕ ТВОЁ 74853795347530247023 И FOGHOIRGEG");
+                    System.out.println("Можно использовать только числа 1, 2, 3, 4 и 0");
                 }
             }
         }
